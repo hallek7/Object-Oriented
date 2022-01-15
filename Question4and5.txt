@@ -1,0 +1,12 @@
+4)interfaces and implementation?
+
+ # Interfaces and implementation is the difference between 
+what the user needs to know and what the user does not need to know.
+What the user needs to know or see interface where they  able to click and
+submit an online order for example. The backend me mechanism and  implementation of data,
+design and code that drivers the interface is  hidden from the user. 
+
+5) How would you design an interface structure such that all of the possible implementations
+ could store data effectively?
+ # we can design a class with a method to store data and implement a function. And design an
+ # interface for a specific storage devise to  call the method to implement the data to end user (the device). 
