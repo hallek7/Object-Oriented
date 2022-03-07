@@ -57,12 +57,12 @@ print( "Animal Type : " , anmInfo.name,
 print(anmInfo.animal_type("")) '''
 
 #----------- Dog class ---------------#
-'''
+
 dogIfo = Dog("Poddle ", 4, "black")
 print(" Dog Type :", dogIfo.name,
        "\n " +  "Age :" , dogIfo.age,
        "\n " + "Fur Color : ", dogIfo.skinType)
-print(dogIfo.make_sound())  '''
+print(dogIfo.make_sound())  
 
 #----------- Lion class ---------------#
 '''
